@@ -2,10 +2,10 @@
 
 <div align="center">
 
-##Hello there 👋, I'm **Arsya Khalid Mahardika**  
+## Hello there 👋, I'm **Arsya Khalid Mahardika**  
 I am an Information Technology undergraduate student at Yogyakarta State University  
 with a strong passion for technology, especially in the area of web development.  
-
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ark_ham55) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsya-khalid-mahardika-a50778320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Khalid.arsya@gmail.com) 
