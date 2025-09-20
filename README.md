@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Hello there 👋, I'm **Arsya Khalid Mahardika**  
+# Hello there 👋, I'm **Arsya Khalid Mahardika**  
 I am an Information Technology undergraduate student at Yogyakarta State University  
 with a strong passion for technology, especially in the area of web development.  
 </div>
