@@ -1,5 +1,5 @@
 # 💫 About Me:
-Saya adalah seorang Web Developer yang fokus pada pengembangan website modern dan responsif. Saat ini saya sedang mendalami python
+I am an Information Technology undergraduate student at Yogyakarta State University with a strong passion for technology, especially in the area of web development.
 
 
 ## 🌐 Socials:
